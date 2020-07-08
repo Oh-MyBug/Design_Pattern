@@ -141,4 +141,5 @@ ctorInstance(memory);   // 3： 初始化对象
 ### 参考资料
 
 [双重检查锁定与延迟初始化](https://www.infoq.cn/article/double-checked-locking-with-delay-initialization/#anch136785)
+
 [Java中的双重检查锁（double checked locking）](https://www.cnblogs.com/xz816111/p/8470048.html)
